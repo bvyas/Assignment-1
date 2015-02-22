@@ -1,0 +1,155 @@
+
+
+.header{
+	display:block;
+	width:150px
+	height:50px;
+	margin-bottom:10px;
+	background-color:brown;
+	font-size:16px;
+	margin-left: 15px;
+	margin-right: 15px;
+
+}
+
+.header ul{
+	vertical-align: top;
+	display: inline-block;
+}
+
+.header h2{
+	display: inline;
+	vertical-align: top;
+	text-align: center;
+}
+
+.header text{
+	margin-right: 10px;
+}
+#power h2{
+	
+	display:inline;
+	padding-right:20px;
+}
+
+#power ul{
+	
+	display:inline;
+	padding-right:20px;
+	text-align: center;
+	margin-top: 2px;
+}
+
+#power li{
+	
+	display:inline-block;
+	padding-right:40px;
+	font: normal 90% arial, helvetica, sans-serif;
+	color:white;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: .2em;
+}
+#text p{
+	vertical-align:top
+	display:inline;
+	padding-right:5px;
+	margin-right: 0px;	
+}
+
+#text a{
+	vertical-align:top
+	display:inline;
+	color:yellow;
+	margin-right: 0px;
+
+}
+
+#text ul{
+	text-align:top right;
+	margin-top: 5px;
+	color:yellow;
+	padding-right: .6em;
+	margin-right: 0px;
+
+}
+
+#text label{
+	text-align:top right;
+	margin-right:25px; 
+	margin-right: 0px;
+
+}
+#menu ul{
+	padding:.2em 0;
+	margin:0;
+	background-color:gainsboro;
+	color:black;
+	width:100%;
+	font: normal 90% arial, helvetica, sans-serif;
+	text-align:left;
+}
+#menu li{
+	display:inline;
+}
+#menu li a{
+	text-decoration:none;
+	background-color: light grey;
+	color:black;
+	padding:.2em 1em;
+	border-right: 1px solid #fff;
+}
+#menu li a:hover{
+	background-color:#369;
+	color:#fff;
+}
+
+
+#mainbody{
+display:inline-block;
+font-size:13px;
+font-color:A52A2A;
+width:500px;
+padding-left: 25px;
+}
+#mainbody a {
+color:brown;
+}
+
+#mainbody h4 {
+color:brown;
+font-style: bold;
+}
+
+#sidebar{
+border:1px solid grey;
+display:inline-block;
+vertical-align:top;
+background-color:gainsboro;
+font-size:13px;
+font-color:A52A2A;
+width:150px;
+margin-left: 35px;
+}
+
+#sidebar ul{
+	padding:0;
+	margin:10;
+	text-align: center;
+	width: 7em;
+	list-style-image: url(arrow.gif);
+}
+
+#sidebar li{
+	background-image:url(arrow.gif);
+	padding-left: .5em;
+	margin-top:20x;
+	padding-top: 5px;
+list-style-image: url(arrow.gif);
+
+}
+
+#sidebar a {
+color:brown;
+
+}
